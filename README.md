@@ -1,5 +1,5 @@
 ### Hey! 
-I'm Cody, a computer programmer based out of Canada.
+I'm Cody, a computer programmer based in Canada.
 
 This is a fresh profile where I'll be uploading some of my smaller projects, experiments, and things I'm currently working on.
 
