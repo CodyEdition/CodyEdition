@@ -1,21 +1,18 @@
-### Hey! 👋🏼
-I'm Cody, a computer programmer based in Canada.
-
-This is a fresh profile where I'll be uploading some of my smaller projects, experiments, and things I'm currently working on.
+### Hi, I'm Cody!
+Computer programmer based in Canada. I build practical apps end-to-end: Android clients, Java backends, and small TypeScript tools, and I care about clean setup, readable docs, and shipping things that actually work.
 
 ---
 
 Tool & Tech
-- React, TypeScript, Tailwind
-- Figma, Obsidian Notes, Mermaid, and Python
+**Primary:** Java, Android (Gradle), Maven, SQL / MySQL, REST APIs
+**Also:** TypeScript, Docker, GitHub Actions / Jenkins, Firebase, Retrofit, Room
+**Design & Notes:** Figma, Obsidian
 
 ---
 
 About me
-- Huge coffee and tea person ☕
-- Health nut 🥝
-- Gamer 🎲
-- I like making things that are useful, creative, and easy to understand 🔩
+I like software that is useful, creative, and easy to understand; outside of coding: coffee, health, and games.
+If you want to connect, open an issue on one of the projects above or reach out via GitHub.
 
 <!--
 **CodyEdition/CodyEdition** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
