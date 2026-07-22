@@ -3,14 +3,14 @@ Computer programmer based in Canada. I build practical apps end-to-end: Android 
 
 ---
 
-Tool & Tech
+#### Tool & Tech
 **Primary:** Java, Android (Gradle), Maven, SQL / MySQL, REST APIs
 **Also:** TypeScript, Docker, GitHub Actions / Jenkins, Firebase, Retrofit, Room
 **Design & Notes:** Figma, Obsidian
 
 ---
 
-About me
+#### About Me
 I like software that is useful, creative, and easy to understand; outside of coding: coffee, health, and games.
 If you want to connect, open an issue on one of the projects above or reach out via GitHub.
 
